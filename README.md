@@ -11,10 +11,6 @@
         <li><a href="https://www.sfml-dev.org/" target="_blank">Site do SFML</a></li>
         <li><a href="https://www.udemy.com/course/introducao-a-programacao-de-jogos-em-c-e-sfml/" target="_blank">Curso brasileiro de SFML na Udemy</a></li>
     </ul>
-
-    <figure>
-        <img src="" alt="" width="720" height="420">
-    </figure>
-
+    <img href="imgs/logo_sfml.png" target="_blank">
 </body>
 </html>
