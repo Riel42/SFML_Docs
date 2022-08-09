@@ -41,7 +41,7 @@ int main() {
         }
         else rect.left += 85;
 
-        sprite.setTextureRect(rect); //Atualiza o sprite a cada frame
+        sprite.setTextureRect(rect); //Atualiza o rectleft do sprite a cada frame
         
         clock.restart(); //Passou de 0.2 segundos, o clock volta para zero, para não deixar o nosso
                          //personagem correndo infinitamente
