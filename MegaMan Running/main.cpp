@@ -8,7 +8,7 @@
 
 int main() {
 
-  sf::RenderWindow window(sf::VideoMode(1280, 720), "MegaMan");
+  sf::RenderWindow window(sf::VideoMode(720, 640), "MegaMan");
 
   sf::Event event;
 
