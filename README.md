@@ -2,7 +2,7 @@
 <html>
 <head></head>
 <body>
-    <h1>Biblioteca SFML</h1>
+    <h1>Biblioteca SFML ^^</h1>
     <p>Esse repositório contém programas feitos com C++, com o framework SFML, que é um framework
     que te auxilia a criar jogos.</p>
     <p>Aqui postarei todos os meus projetos feitos com esse framework.</p>
